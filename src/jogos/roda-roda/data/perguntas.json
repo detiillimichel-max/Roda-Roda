@@ -1,0 +1,15 @@
+{
+  "vermelho": [
+    { "pergunta": "Qual destes é um filme clássico de Spielberg?", "resposta": "TUBARAO", "dica": "Predador marinho." }
+  ],
+  "azul": [
+    { "pergunta": "Qual é a capital da França?", "resposta": "PARIS", "dica": "Cidade luz." }
+  ],
+  "verde": [
+    { "pergunta": "Maior planeta do sistema solar?", "resposta": "JUPITER", "dica": "Gigante gasoso." }
+  ],
+  "amarelo": [
+    { "pergunta": "Oposto de alegre?", "resposta": "TRISTE", "dica": "Sentimento melancólico." }
+  ]
+}
+
