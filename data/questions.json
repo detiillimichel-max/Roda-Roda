@@ -1,0 +1,24 @@
+{
+  "vermelho": {
+    "nivel1": [
+      { "pergunta": "Qual destes é um filme clássico de Spielberg?", "resposta": "TUBARAO", "dica": "Um predador marinho gigante." },
+      { "pergunta": "Quem pintou a Mona Lisa?", "resposta": "DA VINCI", "dica": "O gênio do Renascimento." }
+    ]
+  },
+  "azul": {
+    "nivel1": [
+      { "pergunta": "Qual é a capital da França?", "resposta": "PARIS", "dica": "A cidade luz." }
+    ]
+  },
+  "verde": {
+    "nivel1": [
+      { "pergunta": "Qual é o maior planeta do sistema solar?", "resposta": "JUPITER", "dica": "Um gigante gasoso." }
+    ]
+  },
+  "amarelo": {
+    "nivel1": [
+      { "pergunta": "O oposto de 'alegre' é?", "resposta": "TRISTE", "dica": "Sentimento de melancolia." }
+    ]
+  }
+}
+
